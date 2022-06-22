@@ -1,2 +1,1 @@
-The project tests out scripts
-introduces scripts to a beginner
+This repository contains scripts that carry out several commands
