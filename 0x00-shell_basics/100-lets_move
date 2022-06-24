@@ -1,2 +1,2 @@
 #!/bin/bash
-tmp/u cp
+mv [[:upper:]]* /tmp/u
